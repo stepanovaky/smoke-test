@@ -23,3 +23,5 @@ function App() {
 }
 
 export default App;
+
+// npm i @wojtekmaj/enzyme-adapter-react-17 --save-dev enzyme
